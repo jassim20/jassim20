@@ -32,7 +32,7 @@ This portfolio documents engineering projects from initial design and schematic 
 
 [![PIC18F2550 development board 3D render](https://raw.githubusercontent.com/jassim20/PIC18F2550-Development-Board/main/Images/03-pcb-3d.png)](https://github.com/jassim20/PIC18F2550-Development-Board)
 
-Compact 67 × 45 mm development board designed in Altium Designer, featuring GPIO expansion, ICSP programming, 5 V regulation and external oscillator support. Hardware tested by the designer. Native design files and technical documentation are available in the repository.
+Compact 68 × 46 mm development board designed in Altium Designer, featuring GPIO expansion, ICSP programming, 5 V regulation and external oscillator support. Hardware tested by the designer. Native design files and technical documentation are available in the repository.
 
 ## Portfolio Standards
 
