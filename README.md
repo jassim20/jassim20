@@ -40,3 +40,7 @@ Compact 68 × 46 mm development board designed in Altium Designer, featuring GPI
 - Documented hardware design decisions and revisions.
 - Meaningful commit messages and versioned releases.
 - Transparent reporting of development and verification status.
+
+## Professional Contact
+
+Connect with me on [LinkedIn](https://www.linkedin.com/in/jassim-auda-7b9279207/) for engineering discussions, technical collaboration, and professional opportunities.
